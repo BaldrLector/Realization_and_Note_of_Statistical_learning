@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15d4f5b1-7b56-46c6-be20-1187ecdc7b2e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/Chapter7 SVM/.ipynb_checkpoints/SVM-checkpoint.ipynb" afterPath="$PROJECT_DIR$/Chapter7 SVM/.ipynb_checkpoints/SVM-checkpoint.ipynb" />
-      <change beforePath="$PROJECT_DIR$/Chapter7 SVM/SVM.ipynb" afterPath="$PROJECT_DIR$/Chapter7 SVM/SVM.ipynb" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Chapter5 Decision Tree/.ipynb_checkpoints/Decision Tree-checkpoint.ipynb" afterPath="$PROJECT_DIR$/Chapter5 Decision Tree/.ipynb_checkpoints/Decision Tree-checkpoint.ipynb" />
+      <change beforePath="$PROJECT_DIR$/Chapter5 Decision Tree/Decision Tree.ipynb" afterPath="$PROJECT_DIR$/Chapter5 Decision Tree/Decision Tree.ipynb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -34,60 +35,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="linear_classifier.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter7 SVM/linear_classifier.py">
+      <file leaf-file-name="softmax.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Chapter7 SVM/softmax.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="127" column="0" lean-forward="false" selection-start-line="127" selection-start-column="0" selection-end-line="127" selection-end-column="0" />
+            <state relative-caret-position="529">
+              <caret line="69" column="38" lean-forward="true" selection-start-line="69" selection-start-column="38" selection-end-line="69" selection-end-column="38" />
               <folding>
-                <element signature="e#0#18#0" expanded="true" />
-                <element signature="e#164#177#0" expanded="true" />
-                <element signature="e#296#3568#0" expanded="true" />
-                <element signature="e#1443#1516#0" expanded="true" />
-                <element signature="e#2444#2517#0" expanded="true" />
-                <element signature="e#2805#2831#0" expanded="true" />
-                <element signature="e#3206#3279#0" expanded="true" />
-                <element signature="e#3598#4645#0" expanded="true" />
-                <element signature="e#4011#4086#0" expanded="true" />
-                <element signature="e#4392#4467#0" expanded="true" />
-                <element signature="e#4692#5188#0" expanded="true" />
-                <element signature="e#5336#5393#0" expanded="true" />
-                <element signature="e#5548#5609#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="linear_svm.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter7 SVM/linear_svm.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="379">
-              <caret line="40" column="46" lean-forward="true" selection-start-line="40" selection-start-column="46" selection-end-line="40" selection-end-column="46" />
-              <folding>
-                <element signature="e#2268#4793#0" expanded="true" />
-                <element signature="e#2479#2556#0" expanded="true" />
-                <element signature="e#2917#2940#0" expanded="true" />
-                <element signature="e#3404#3481#0" expanded="true" />
-                <element signature="e#4531#4608#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LR.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Chapter6 Logistic Regression/LR.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="547">
-              <caret line="60" column="1" lean-forward="true" selection-start-line="60" selection-start-column="1" selection-end-line="60" selection-end-column="1" />
-              <folding>
-                <element signature="e#15#33#0" expanded="true" />
-                <element signature="e#162#211#0" expanded="true" />
-                <element signature="e#247#274#0" expanded="true" />
-                <element signature="e#310#341#0" expanded="true" />
-                <element signature="e#393#822#0" expanded="true" />
-                <element signature="e#393#408#0" expanded="true" />
-                <element signature="e#858#889#0" expanded="true" />
-                <element signature="e#963#991#0" expanded="true" />
+                <element signature="e#87#1861#0" expanded="true" />
+                <element signature="e#2108#2185#0" expanded="true" />
+                <element signature="e#2921#2998#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -125,6 +81,7 @@
         <option value="$PROJECT_DIR$/Chapter2 perceptron/perceptron.ipynb" />
         <option value="$PROJECT_DIR$/Chapter4 Naive Bayes/NB.py" />
         <option value="$PROJECT_DIR$/Chapter7 SVM/SVM.ipynb" />
+        <option value="$PROJECT_DIR$/Chapter6 Logistic Regression/LR.py" />
       </list>
     </option>
   </component>
@@ -134,7 +91,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-9" />
     <option name="width" value="1934" />
     <option name="height" value="872" />
@@ -163,11 +120,6 @@
             <path>
               <item name="Realization and Note of Statistical learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="Realization and Note of Statistical learning" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Realization and Note of Statistical learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Realization and Note of Statistical learning" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter6 Logistic Regression" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Realization and Note of Statistical learning" type="b2602c69:ProjectViewProjectNode" />
@@ -530,14 +482,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946634" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3255814" sideWeight="0.5022654" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946634" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3255814" sideWeight="0.49773464" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20930232" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.303433" sideWeight="0.49773464" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20930232" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32668883" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17291221" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="R Packages" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -600,42 +552,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Chapter7 SVM/linear_classifier.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="127" column="0" lean-forward="false" selection-start-line="127" selection-start-column="0" selection-end-line="127" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-            <element signature="e#164#177#0" expanded="true" />
-            <element signature="e#296#3568#0" expanded="true" />
-            <element signature="e#1443#1516#0" expanded="true" />
-            <element signature="e#2444#2517#0" expanded="true" />
-            <element signature="e#2805#2831#0" expanded="true" />
-            <element signature="e#3206#3279#0" expanded="true" />
-            <element signature="e#3598#4645#0" expanded="true" />
-            <element signature="e#4011#4086#0" expanded="true" />
-            <element signature="e#4392#4467#0" expanded="true" />
-            <element signature="e#4692#5188#0" expanded="true" />
-            <element signature="e#5336#5393#0" expanded="true" />
-            <element signature="e#5548#5609#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter7 SVM/linear_svm.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="111" column="13" lean-forward="true" selection-start-line="111" selection-start-column="13" selection-end-line="111" selection-end-column="13" />
-          <folding>
-            <element signature="e#2268#4793#0" expanded="true" />
-            <element signature="e#2479#2556#0" expanded="true" />
-            <element signature="e#2917#2940#0" expanded="true" />
-            <element signature="e#3404#3481#0" expanded="true" />
-            <element signature="e#4531#4608#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
@@ -871,13 +787,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter7 SVM/softmax.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1311">
-          <caret line="71" column="21" lean-forward="true" selection-start-line="71" selection-start-column="21" selection-end-line="71" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter6 Logistic Regression/p_N250_it0.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -959,10 +868,99 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://C:/ProgramData/Anaconda3/envs/tf-gpu/Lib/site-packages/sklearn/tree/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="35" lean-forward="false" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#109#1" expanded="false" />
+            <element signature="e#314#440#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/ProgramData/Anaconda3/envs/tf-gpu/Lib/site-packages/sklearn/tree/tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1553">
+          <caret line="515" column="4" lean-forward="true" selection-start-line="515" selection-start-column="4" selection-end-line="515" selection-end-column="4" />
+          <folding>
+            <element signature="e#2401#20313#0" expanded="false" />
+            <element signature="e#3784#4166#0" expanded="false" />
+            <element signature="e#3941#4166#0" expanded="false" />
+            <element signature="e#4055#4166#0" expanded="false" />
+            <element signature="e#4402#4551#0" expanded="false" />
+            <element signature="e#4633#5379#0" expanded="false" />
+            <element signature="e#4962#5192#0" expanded="false" />
+            <element signature="e#5282#5379#0" expanded="false" />
+            <element signature="e#5407#5499#0" expanded="false" />
+            <element signature="e#6031#6306#0" expanded="false" />
+            <element signature="e#6082#6253#0" expanded="false" />
+            <element signature="e#6342#6647#0" expanded="false" />
+            <element signature="e#6400#6571#0" expanded="false" />
+            <element signature="e#6740#7093#0" expanded="false" />
+            <element signature="e#6792#7038#0" expanded="false" />
+            <element signature="e#7129#7567#0" expanded="false" />
+            <element signature="e#7187#7431#0" expanded="false" />
+            <element signature="e#7715#8346#0" expanded="false" />
+            <element signature="e#7763#7932#0" expanded="false" />
+            <element signature="e#8199#8346#0" expanded="false" />
+            <element signature="e#8587#8781#0" expanded="false" />
+            <element signature="e#8631#8730#0" expanded="false" />
+            <element signature="e#8870#8999#0" expanded="false" />
+            <element signature="e#9443#9561#0" expanded="false" />
+            <element signature="e#9610#9743#0" expanded="false" />
+            <element signature="e#9795#10483#0" expanded="false" />
+            <element signature="e#9923#10009#0" expanded="false" />
+            <element signature="e#10071#10239#0" expanded="false" />
+            <element signature="e#10304#10483#0" expanded="false" />
+            <element signature="e#10543#10714#0" expanded="false" />
+            <element signature="e#10822#10914#0" expanded="false" />
+            <element signature="e#10941#11045#0" expanded="false" />
+            <element signature="e#11107#11417#0" expanded="false" />
+            <element signature="e#11519#11624#0" expanded="false" />
+            <element signature="e#11682#11790#0" expanded="false" />
+            <element signature="e#12141#12241#0" expanded="false" />
+            <element signature="e#12640#12756#0" expanded="false" />
+            <element signature="e#12824#13090#0" expanded="false" />
+            <element signature="e#13209#13538#0" expanded="false" />
+            <element signature="e#13247#13378#0" expanded="false" />
+            <element signature="e#13413#13538#0" expanded="false" />
+            <element signature="e#13711#14080#0" expanded="false" />
+            <element signature="e#14278#14652#0" expanded="false" />
+            <element signature="e#14679#15106#0" expanded="false" />
+            <element signature="e#15223#15304#0" expanded="false" />
+            <element signature="e#15491#15789#0" expanded="false" />
+            <element signature="e#15682#15789#0" expanded="false" />
+            <element signature="e#15878#16128#0" expanded="false" />
+            <element signature="e#16200#17042#1" expanded="false" />
+            <element signature="e#17274#17699#0" expanded="false" />
+            <element signature="e#17410#17699#0" expanded="false" />
+            <element signature="e#17533#17663#0" expanded="false" />
+            <element signature="e#17748#17864#0" expanded="false" />
+            <element signature="e#17916#18786#1" expanded="false" />
+            <element signature="e#18973#19739#1" expanded="false" />
+            <element signature="e#19895#20217#1" expanded="false" />
+            <element signature="e#20566#29443#1" expanded="false" />
+            <element signature="e#30664#32416#0" expanded="false" />
+            <element signature="e#30664#32211#1" expanded="false" />
+            <element signature="e#32476#33458#1" expanded="false" />
+            <element signature="e#33635#33833#0" expanded="false" />
+            <element signature="e#33861#34206#0" expanded="false" />
+            <element signature="e#33938#34176#0" expanded="false" />
+            <element signature="e#34252#34910#1" expanded="false" />
+            <element signature="e#35043#35145#0" expanded="false" />
+            <element signature="e#35215#45822#0" expanded="false" />
+            <element signature="e#44154#45618#1" expanded="false" />
+            <element signature="e#45880#53692#0" expanded="false" />
+            <element signature="e#53748#60517#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter6 Logistic Regression/LR.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="547">
-          <caret line="60" column="1" lean-forward="true" selection-start-line="60" selection-start-column="1" selection-end-line="60" selection-end-column="1" />
+        <state relative-caret-position="405">
+          <caret line="57" column="48" lean-forward="true" selection-start-line="57" selection-start-column="48" selection-end-line="57" selection-end-column="48" />
           <folding>
             <element signature="e#15#33#0" expanded="true" />
             <element signature="e#162#211#0" expanded="true" />
@@ -972,6 +970,18 @@
             <element signature="e#393#408#0" expanded="true" />
             <element signature="e#858#889#0" expanded="true" />
             <element signature="e#963#991#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter7 SVM/softmax.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="69" column="38" lean-forward="true" selection-start-line="69" selection-start-column="38" selection-end-line="69" selection-end-column="38" />
+          <folding>
+            <element signature="e#87#1861#0" expanded="true" />
+            <element signature="e#2108#2185#0" expanded="true" />
+            <element signature="e#2921#2998#0" expanded="true" />
           </folding>
         </state>
       </provider>

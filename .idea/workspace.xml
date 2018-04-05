@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15d4f5b1-7b56-46c6-be20-1187ecdc7b2e" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter5 Decision Tree/trees.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Chapter5 Decision Tree/.ipynb_checkpoints/Decision Tree-checkpoint.ipynb" afterPath="$PROJECT_DIR$/Chapter5 Decision Tree/.ipynb_checkpoints/Decision Tree-checkpoint.ipynb" />
+      <change beforePath="$PROJECT_DIR$/Chapter5 Decision Tree/Decision Tree.ipynb" afterPath="$PROJECT_DIR$/Chapter5 Decision Tree/Decision Tree.ipynb" />
+      <change beforePath="$PROJECT_DIR$/Chapter5 Decision Tree/Decision Tree.py" afterPath="$PROJECT_DIR$/Chapter5 Decision Tree/Decision Tree.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,7 +20,8 @@
     <SUITE FILE_PATH="coverage/Realization_and_Note_of_Statistical_learning$test.coverage" NAME="test Coverage Results" MODIFIED="1521691605033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Realization_and_Note_of_Statistical_learning$kmeans.coverage" NAME="kmeans Coverage Results" MODIFIED="1521638778301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Realization_and_Note_of_Statistical_learning$NB.coverage" NAME="NB Coverage Results" MODIFIED="1521533718361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter4 Naive Bayes" />
-    <SUITE FILE_PATH="coverage/Realization_and_Note_of_Statistical_learning$Realization_and_Note_of_Statistical_learning.coverage" NAME="Realization and Note of Statistical learning Coverage Results" MODIFIED="1522044902310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Realization_and_Note_of_Statistical_learning$Realization_and_Note_of_Statistical_learning.coverage" NAME="Realization and Note of Statistical learning Coverage Results" MODIFIED="1522913832497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Realization_and_Note_of_Statistical_learning$Decision_Tree.coverage" NAME="Decision Tree Coverage Results" MODIFIED="1522913818554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter5 Decision Tree" />
     <SUITE FILE_PATH="coverage/Realization_and_Note_of_Statistical_learning$LR.coverage" NAME="LR Coverage Results" MODIFIED="1521533908941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter6 Logistic Regression" />
   </component>
   <component name="DatabaseView">
@@ -33,16 +38,50 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="softmax.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Chapter7 SVM/softmax.py">
+      <file leaf-file-name="Decision Tree.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter5 Decision Tree/Decision Tree.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+            <state relative-caret-position="463">
+              <caret line="65" column="38" lean-forward="true" selection-start-line="65" selection-start-column="38" selection-end-line="65" selection-end-column="38" />
               <folding>
-                <element signature="e#87#1861#0" expanded="true" />
-                <element signature="e#1909#3177#0" expanded="true" />
-                <element signature="e#2108#2185#0" expanded="true" />
-                <element signature="e#2921#2998#0" expanded="true" />
+                <element signature="e#0#31#0" expanded="true" />
+                <element signature="e#100#598#0" expanded="true" />
+                <element signature="e#723#1303#0" expanded="true" />
+                <element signature="e#1356#1588#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="trees.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Chapter5 Decision Tree/trees.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="74" column="80" lean-forward="true" selection-start-line="74" selection-start-column="80" selection-end-line="74" selection-end-column="80" />
+              <folding>
+                <element signature="e#0#120#1" expanded="true" />
+                <element signature="e#121#141#0" expanded="true" />
+                <element signature="e#184#425#0" expanded="true" />
+                <element signature="e#194#326#0" expanded="true" />
+                <element signature="e#460#918#0" expanded="true" />
+                <element signature="e#968#1248#0" expanded="true" />
+                <element signature="e#1297#2296#0" expanded="true" />
+                <element signature="e#2330#2593#0" expanded="true" />
+                <element signature="e#3501#3834#0" expanded="true" />
+                <element signature="e#3875#3961#0" expanded="true" />
+                <element signature="e#3995#4059#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="samples_generator.py" pinned="false" current-in-tab="false">
+        <entry file="file://C:/ProgramData/Anaconda3/envs/tf-gpu/Lib/site-packages/sklearn/datasets/samples_generator.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="284">
+              <caret line="849" column="3" lean-forward="true" selection-start-line="849" selection-start-column="3" selection-end-line="849" selection-end-column="3" />
+              <folding>
+                <element signature="e#24211#26062#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -68,7 +107,6 @@
         <option value="$PROJECT_DIR$/Chapter3 KNN/KNN.py" />
         <option value="$PROJECT_DIR$/Chapter3 KNN/k_nearest_neighbor.py" />
         <option value="$PROJECT_DIR$/Chapter3 KNN/kd_tree.py" />
-        <option value="$PROJECT_DIR$/Chapter5 Decision Tree/Decision Tree.py" />
         <option value="$PROJECT_DIR$/Chapter3 KNN/knn.py" />
         <option value="$PROJECT_DIR$/Chapter3 KNN/KNN.ipynb" />
         <option value="$PROJECT_DIR$/kmeans.py" />
@@ -81,6 +119,7 @@
         <option value="$PROJECT_DIR$/Chapter4 Naive Bayes/NB.py" />
         <option value="$PROJECT_DIR$/Chapter7 SVM/SVM.ipynb" />
         <option value="$PROJECT_DIR$/Chapter6 Logistic Regression/LR.py" />
+        <option value="$PROJECT_DIR$/Chapter5 Decision Tree/Decision Tree.py" />
       </list>
     </option>
   </component>
@@ -90,8 +129,8 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="1912" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1552" />
     <option name="height" value="840" />
@@ -114,8 +153,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -123,19 +160,16 @@
               <item name="Realization and Note of Statistical learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="Realization and Note of Statistical learning" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Realization and Note of Statistical learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Realization and Note of Statistical learning" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter7 SVM" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Leetcode-Personal-Record" />
@@ -143,6 +177,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="I:\Workplace\PycharmProjects\Realization and Note of Statistical learning\Chapter5 Decision Tree" />
       <recent name="I:\Workplace\PycharmProjects\Realization and Note of Statistical learning\Chapter4 Naive Bayes" />
       <recent name="I:\Workplace\PycharmProjects\Realization and Note of Statistical learning" />
       <recent name="I:\Workplace\PycharmProjects\Realization and Note of Statistical learning\Chapter3 KNN" />
@@ -205,6 +240,25 @@
       <module name="Realization of Statistical learning" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="ADDITIONAL_ARGS" value="" />
+    </configuration>
+    <configuration name="Decision Tree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter5 Decision Tree" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Realization and Note of Statistical learning" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter5 Decision Tree/Decision Tree.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
     </configuration>
     <configuration name="LR" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -282,25 +336,6 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="perceptron" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter2 perceptron" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Realization and Note of Statistical learning" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter2 perceptron/perceptron.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -348,25 +383,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <module name="Realization of Statistical learning" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Doctests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Realization of Statistical learning" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
     </configuration>
     <configuration default="true" type="tests" factoryName="Nosetests">
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -430,21 +446,40 @@
       <option name="_new_target" value="&quot;&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Realization of Statistical learning" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+    </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Jupyter Notebook.Realization and Note of Statistical learning" />
-      <item index="1" class="java.lang.String" itemvalue="Python.perceptron" />
-      <item index="2" class="java.lang.String" itemvalue="Python.NB" />
-      <item index="3" class="java.lang.String" itemvalue="Python.LR" />
-      <item index="4" class="java.lang.String" itemvalue="Python.kmeans" />
-      <item index="5" class="java.lang.String" itemvalue="Python.test" />
+      <item index="1" class="java.lang.String" itemvalue="Python.NB" />
+      <item index="2" class="java.lang.String" itemvalue="Python.LR" />
+      <item index="3" class="java.lang.String" itemvalue="Python.kmeans" />
+      <item index="4" class="java.lang.String" itemvalue="Python.test" />
+      <item index="5" class="java.lang.String" itemvalue="Python.Decision Tree" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.test" />
-        <item index="1" class="java.lang.String" itemvalue="Python.kmeans" />
-        <item index="2" class="java.lang.String" itemvalue="Python.LR" />
-        <item index="3" class="java.lang.String" itemvalue="Python.NB" />
-        <item index="4" class="java.lang.String" itemvalue="Python.perceptron" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Decision Tree" />
+        <item index="1" class="java.lang.String" itemvalue="Python.test" />
+        <item index="2" class="java.lang.String" itemvalue="Python.kmeans" />
+        <item index="3" class="java.lang.String" itemvalue="Python.LR" />
+        <item index="4" class="java.lang.String" itemvalue="Python.NB" />
       </list>
     </recent_temporary>
   </component>
@@ -482,24 +517,23 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1552" height="840" extended-state="1" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946634" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3255814" sideWeight="0.5022654" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30232558" sideWeight="0.50516284" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946634" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30276564" sideWeight="0.49773464" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20930232" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30232558" sideWeight="0.49483716" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15836102" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32668883" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09097035" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10813704" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="R Packages" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="R Graphics" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4101184" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32601714" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3988355" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2868217" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -547,46 +581,20 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="7" />
+      <option name="time" value="9" />
     </breakpoint-manager>
     <watches-manager />
   </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>k</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="133">
-            <caret line="7" column="27" lean-forward="false" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data.in" />
-    <entry file="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/1111412853/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="71383">
-          <caret line="3757" column="0" lean-forward="false" selection-start-line="3757" selection-start-column="0" selection-end-line="3757" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.py" />
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter5 Decision Tree/Decision Tree.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -644,13 +652,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter2 perceptron/perceptron.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="569">
-          <caret line="46" column="30" lean-forward="true" selection-start-line="46" selection-start-column="30" selection-end-line="46" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter6 Logistic Regression/LR_non_GradientDescent.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="684">
@@ -662,13 +663,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="528">
           <caret line="145" column="31" lean-forward="true" selection-start-line="145" selection-start-column="31" selection-end-line="145" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter4 Naive Bayes/Wine.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -690,13 +684,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="329">
           <caret line="852" column="45" lean-forward="false" selection-start-line="852" selection-start-column="45" selection-end-line="852" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter5 Decision Tree/Decision Tree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -736,20 +723,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
           <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter2 perceptron/perceptron.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter4 Naive Bayes/Naive Bayeis.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
         </state>
       </provider>
     </entry>
@@ -824,13 +797,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter7 SVM/SVM.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter6 Logistic Regression/LR_sample.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
@@ -868,13 +834,125 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter7 SVM/softmax.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+        <state relative-caret-position="-475">
+          <caret line="25" column="2" lean-forward="true" selection-start-line="25" selection-start-column="2" selection-end-line="25" selection-end-column="2" />
           <folding>
-            <element signature="e#87#1861#0" expanded="true" />
-            <element signature="e#1909#3177#0" expanded="true" />
-            <element signature="e#2108#2185#0" expanded="true" />
-            <element signature="e#2921#2998#0" expanded="true" />
+            <element signature="e#0#18#0" expanded="false" />
+            <element signature="e#755#832#0" expanded="false" />
+            <element signature="e#1605#1682#0" expanded="false" />
+            <element signature="e#1909#3177#0" expanded="false" />
+            <element signature="e#2108#2185#0" expanded="false" />
+            <element signature="e#2921#2998#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter5 Decision Tree/1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter5 Decision Tree/Decision Tree.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter2 perceptron/perceptron.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="48" column="31" lean-forward="true" selection-start-line="48" selection-start-column="31" selection-end-line="48" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#18#0" expanded="false" />
+            <element signature="e#84#139#0" expanded="false" />
+            <element signature="e#196#851#0" expanded="false" />
+            <element signature="e#887#1303#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/ProgramData/Anaconda3/envs/tf-gpu/Lib/site-packages/sklearn/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="143" column="61" lean-forward="false" selection-start-line="143" selection-start-column="61" selection-end-line="143" selection-end-column="61" />
+          <folding>
+            <element signature="e#502#512#0" expanded="false" />
+            <element signature="e#3422#3482#0" expanded="false" />
+            <element signature="e#3762#3824#0" expanded="false" />
+            <element signature="e#4790#5270#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter7 SVM/SVM.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/ProgramData/Anaconda3/envs/tf-gpu/Lib/site-packages/sklearn/datasets/samples_generator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="849" column="3" lean-forward="true" selection-start-line="849" selection-start-column="3" selection-end-line="849" selection-end-column="3" />
+          <folding>
+            <element signature="e#24211#26062#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter4 Naive Bayes/Wine.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter4 Naive Bayes/Naive Bayeis.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter2 perceptron/perceptron.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter5 Decision Tree/Decision Tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="463">
+          <caret line="65" column="38" lean-forward="true" selection-start-line="65" selection-start-column="38" selection-end-line="65" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+            <element signature="e#100#598#0" expanded="true" />
+            <element signature="e#723#1303#0" expanded="true" />
+            <element signature="e#1356#1588#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter5 Decision Tree/trees.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="74" column="80" lean-forward="true" selection-start-line="74" selection-start-column="80" selection-end-line="74" selection-end-column="80" />
+          <folding>
+            <element signature="e#0#120#1" expanded="true" />
+            <element signature="e#121#141#0" expanded="true" />
+            <element signature="e#184#425#0" expanded="true" />
+            <element signature="e#194#326#0" expanded="true" />
+            <element signature="e#460#918#0" expanded="true" />
+            <element signature="e#968#1248#0" expanded="true" />
+            <element signature="e#1297#2296#0" expanded="true" />
+            <element signature="e#2330#2593#0" expanded="true" />
+            <element signature="e#3501#3834#0" expanded="true" />
+            <element signature="e#3875#3961#0" expanded="true" />
+            <element signature="e#3995#4059#0" expanded="true" />
           </folding>
         </state>
       </provider>
